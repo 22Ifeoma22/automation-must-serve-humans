@@ -3,7 +3,7 @@
 This case examines how missing travel data led to wrongful benefit suspension for Northern Ireland citizens returning via Dublin Airport.
 
 ### Key Issue
-Absence of re-entry data resulted in automated assumptions of immigration, triggering sanctions without human oversight.
+Absence of re-entry data resulted in automated assumptions of emigration, triggering sanctions without human oversight.
 
 ### Governance Focus
 - Missing data risk

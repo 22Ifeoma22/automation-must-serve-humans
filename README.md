@@ -43,17 +43,17 @@ Human dignity is the highest KPI.
 
 ###  Public Values
 
-✅ Prevent automated injustices  
-✅ Protect vulnerable communities  
-✅ Ensure fairness & accountability  
-✅ Build public trust in AI  
+ Prevent automated injustices  
+ Protect vulnerable communities  
+ Ensure fairness & accountability  
+ Build public trust in AI  
 
 ---
 
 **More cases releasing soon.**  
-**Automation must serve humans — not harm them.**
+**Automation must serve humans  not harm them.**
 
 ---
 
-### 📬 Contact  
-🔗 *(Add your LinkedIn link here when you're ready)*  
+###  Contact  
+ *(Add your LinkedIn link here when you're ready)*  

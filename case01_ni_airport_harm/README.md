@@ -1,4 +1,4 @@
-# Case 01: NI Airport Benefit Suspension — Governance Failure & Rights Harm
+# Case 01: NI Airport Benefit Suspension  Governance Failure & Rights Harm
 
 This case examines how missing travel data led to wrongful benefit suspension for Northern Ireland citizens returning via Dublin Airport.
 

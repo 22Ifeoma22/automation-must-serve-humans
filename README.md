@@ -1,6 +1,6 @@
-# **Automation Must Serve Humans — Not Harm Them**
+# **Automation Must Serve Humans  Not Harm Them**
 ### Responsible AI Incident Response & Governance Portfolio  
-**By Sue Eze — Responsible AI Risk & Compliance Consultant**  
+**By Sue Eze  Responsible AI Risk & Compliance Consultant**  
 *I protect people from AI-driven harm — before it starts.*
 
 ---

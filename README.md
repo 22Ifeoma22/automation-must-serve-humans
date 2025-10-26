@@ -19,24 +19,24 @@ can prevent those harms **before they reach real people**.
 
 | Case | Description | Status | Link |
 |------|-------------|--------|------|
-| 01 | NI Airport Benefit Suspension — Governance Failure & Rights Harm |  Publishing Soon |  case01_ni_airport_harm |
-| 02 | DWP False Fraud Flags — High False Positive Harm |  In Progress | Coming Soon |
-| 03 | Facial Recognition Wrong Arrests — Identity Rights Violation |  In Progress | Coming Soon |
+| 01 | NI Airport Benefit Suspension  Governance Failure & Rights Harm |  Publishing Soon |  case01_ni_airport_harm |
+| 02 | DWP False Fraud Flags  High False Positive Harm |  In Progress | Coming Soon |
+| 03 | Facial Recognition Wrong Arrests  Identity Rights Violation |  In Progress | Coming Soon |
 
 ---
 
 ###  My Governance Doctrine — **ROAR**
 
-**R — Risk Prevention**  
+**R  Risk Prevention**  
 Unknown risk must never be automated into harm.
 
-**O — Oversight by Design**  
+**O   Oversight by Design**  
 High-impact decisions require **human review**.
 
-**A — Accountability Enforcement**  
+**A   Accountability Enforcement**  
 Every automated outcome must have **a responsible owner**.
 
-**R — Rights Protection**  
+**R   Rights Protection**  
 Human dignity is the highest KPI.
 
 ---

@@ -25,7 +25,7 @@ can prevent those harms **before they reach real people**.
 
 ---
 
-###  My Governance Doctrine — **ROAR**
+###  My Governance Doctrine **ROAR**
 
 **R  Risk Prevention**  
 Unknown risk must never be automated into harm.

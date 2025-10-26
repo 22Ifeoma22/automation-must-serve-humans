@@ -1,7 +1,7 @@
 # **Automation Must Serve Humans  Not Harm Them**
 ### Responsible AI Incident Response & Governance Portfolio  
 **By Sue Eze  Responsible AI Risk & Compliance Consultant**  
-*I protect people from AI-driven harm — before it starts.*
+*I protect people from AI-driven harm  before it starts.*
 
 ---
 
@@ -9,7 +9,7 @@
 
 Automated decisions must **never** violate human rights.
 
-I investigate real-world cases where automation harmed citizens —  
+I investigate real-world cases where automation harmed citizens  
 and demonstrate how **risk governance and human oversight**  
 can prevent those harms **before they reach real people**.
 

@@ -1,5 +1,5 @@
 
-# Case Study 01 — Northern Ireland Child Benefit Suspension Failure
+# Case Study 01 - Northern Ireland Child Benefit Suspension Failure
  Published |  Real-World Harm |  Human Rights Violation
 
 346 parents in Northern Ireland had their child benefit payments **suspended automatically** after returning home from a holiday through Dublin airport.
@@ -22,7 +22,7 @@ This resulted in sudden withdrawal of essential income for families with childre
 - Damage to public trust in government systems
 
 ##  Coming Next
-- Case Study 02 — DWP Fraud AI False Positives  
+- Case Study 02 DWP - Fraud AI False Positives  
 - Governance Remediation Plans  
 - Responsible AI Oversight Controls (ISO 42001 alignment)
 

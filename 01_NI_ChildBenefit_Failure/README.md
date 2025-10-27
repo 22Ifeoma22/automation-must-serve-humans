@@ -1,6 +1,6 @@
 
 # Case Study 01 — Northern Ireland Child Benefit Suspension Failure
- Published |  Real-World Harm | 🛡 Human Rights Violation
+ Published |  Real-World Harm |  Human Rights Violation
 
 346 parents in Northern Ireland had their child benefit payments **suspended automatically** after returning home from a holiday through Dublin airport.
 The AI-driven fraud detection system misclassified these trips as signs of **permanent emigration**.

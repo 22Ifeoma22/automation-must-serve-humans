@@ -11,9 +11,7 @@ Mission
 Automated decisions must never violate human rights...
 ...
 
---------------------------------
-
-## Responsible AI Governance Policy (Public Summary)
+## Responsible AI Governance Policy 
 
  Professional ISO/IEC 42001 Aligned Governance Structure
 

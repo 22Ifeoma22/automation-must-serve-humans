@@ -7,11 +7,52 @@ I protect people and public trust by ensuring AI systems are safe before deploym
 
 ###  Mission
 
-Automated decisions must **never** violate human rights.
+Mission
+Automated decisions must never violate human rights...
+...
 
-I investigate real-world cases where automation harmed citizens  
-and demonstrate how **risk governance and human oversight**  
-can prevent those harms **before they reach real people**.
+--------------------------------
+
+## Responsible AI Governance Policy (Public Summary)
+
+ Professional ISO/IEC 42001 Aligned Governance Structure
+
+> Full policy document is confidential — Table of Contents shared for demonstration of structure and scope.
+
+### Table of Contents
+
+1. Introduction
+   1.1 Purpose and Scope
+   1.2 Document Ownership & Maintenance
+   1.3 Compliance & Enforcement
+2. Responsible AI Governance Controls
+   2.1 Context & Scope Validation
+   2.2 Scenario & Edge-Case Testing
+   2.3 Data Risk Assessments
+   2.4 Human Oversight & Escalation
+   2.5 Public Trust Monitoring
+   2.6 Standards & Legal Alignment
+   2.7 Accountability & Audit
+   2.8 Continuous Monitoring
+3. Standards Mapping
+   3.1 NIST AI RMF
+   3.2 ISO/IEC 42001
+   3.3 GDPR
+   3.4 ISO 27001/27701
+4. Appendices
+   4.1 Key Terms
+   4.2 Roles & Responsibilities
+   4.3 Exception Handling
+   4.4 Revision History
+
+ Full policy available under NDA for professional review.
+
+--------------------------------
+
+## Case Studies
+| Case | Description | Status | Link |
+|------|-------------|--------|------|
+...
 
 ---
 

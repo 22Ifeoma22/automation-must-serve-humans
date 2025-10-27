@@ -9,7 +9,53 @@ I protect people and public trust by ensuring AI systems are safe before deploym
 
 Mission
 Automated decisions must never violate human rights...
+Mission
+Policy Summary (Table of Contents)
+--------------------------------
+Case Studies: Automation Harm in the Real World
+--------------------------------
+
+ Case Study: NI Child Benefit Removal Due to Travel Pattern Bias
+   • What failed
+   • Harm caused to families
+   • Which policy controls would prevent it
+   • Status:  Published |  View Details
+
 ...
+## 🔍 Case Studies: When Automation Harms People
+
+I research and document real-world failures where automated systems
+misinterpret human behaviour — to prevent future harm.
+
+---
+
+### **Case Study 1 — NI Child Benefit Suspension Due to Travel Blind Spots**
+
+Families in Northern Ireland who legally travelled via Dublin airport
+were automatically classified as "living abroad" and had their Child Benefit
+payments **suddenly stopped**.
+
+This resulted in:
+- wrongful loss of essential income
+- emotional harm and stress to parents
+- deprivation risks for children
+- delayed assistance due to lack of explanation
+
+**Governance Failures:**
+-  No blind-spot scenario testing  
+-  No Human-in-the-Loop before suspension of essential benefits  
+-  No monitoring of regional false-positive spikes  
+-  No named owner for harm escalation  
+
+**Policy Controls That Prevent This:**
+ Population Scope Validation  
+ Protected Group Safeguards  
+ Mandatory HITL for essential service suspensions  
+ Continuous Trust Monitoring  
+ Reason & Appeal Rights under GDPR Art. 22  
+
+ Full analysis and governance solution inside repository  
+ Full Responsible AI Governance Policy available under NDA  
 
 ## Responsible AI Governance Policy 
 

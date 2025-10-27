@@ -22,7 +22,7 @@ Case Studies: Automation Harm in the Real World
    • Status:  Published |  View Details
 
 ...
-## 🔍 Case Studies: When Automation Harms People
+##  Case Studies: When Automation Harms People
 
 I research and document real-world failures where automated systems
 misinterpret human behaviour — to prevent future harm.

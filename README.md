@@ -25,7 +25,7 @@ Case Studies: Automation Harm in the Real World
 ##  Case Studies: When Automation Harms People
 
 I research and document real-world failures where automated systems
-misinterpret human behaviour — to prevent future harm.
+misinterpret human behaviour, to prevent future harm.
 
 ---
 

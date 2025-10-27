@@ -5,7 +5,7 @@
 346 parents in Northern Ireland had their child benefit payments **suspended automatically** after returning home from a holiday through Dublin airport.
 The AI-driven fraud detection system misclassified these trips as signs of **permanent emigration**.
 
-This resulted in sudden withdrawal of essential income for families with children —  
+This resulted in sudden withdrawal of essential income for families with children  
 **without warning, investigation, or a human review path to correct the error.**
 
 ##  Root Governance Failures

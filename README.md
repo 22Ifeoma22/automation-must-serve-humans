@@ -43,16 +43,8 @@ Automated decisions must never violate human rights...
    4.3 Exception Handling
    4.4 Revision History
 
- Full policy available under NDA for professional review.
-
+Full policy available under NDA for professional review
 --------------------------------
-
-## Case Studies
-| Case | Description | Status | Link |
-|------|-------------|--------|------|
-...
-
----
 
 ###  Case Studies
 

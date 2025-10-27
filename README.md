@@ -1,4 +1,22 @@
 # **Automation Must Serve Humans  Not Harm Them**
+
+automation-must-serve-humans/
+│
+├── CaseStudies/
+│   ├── NI_ChildBenefit_Failure/
+│   │     ├── README.md   short overview
+│   │     ├── NI_CaseStudy_Full.pdf 
+│   │     ├── NI_HarmFlow.png 
+│   │     ├── NI_Governance_Fixes.png 
+│
+
+automation-must-serve-humans/
+│
+├── Restricted/
+│   ├── Policy_full_locked.pdf 🔒
+│   ├── CaseStudy2_ComingSoon.md 🔒
+
+
 ### Responsible AI Incident Response & Governance Portfolio  
 **By Sue Eze  Responsible AI Risk & Compliance Consultant**  
 I protect people and public trust by ensuring AI systems are safe before deployment.

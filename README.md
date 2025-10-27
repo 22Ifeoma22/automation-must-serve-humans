@@ -9,7 +9,7 @@ I protect people and public trust by ensuring AI systems are safe before deploym
 
 Mission
 Automated decisions must never violate human rights...
-Mission
+
 Policy Summary (Table of Contents)
 --------------------------------
 Case Studies: Automation Harm in the Real World

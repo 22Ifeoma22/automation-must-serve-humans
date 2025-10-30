@@ -32,11 +32,4 @@ This framework demonstrates **leadership-grade AI assurance**:
 - Automation must **serve humans, not harm them**
 
 ---
-modules/
-  governance-failure-analysis/
-    deloitte-llm-hallucination-case/
-      SOPs/
-        SOP-01_Prompt_Provenance_and_Logging.md
-        SOP-02_Citation_and_Evidence_Verification.md
-        SOP-03_RAG_Corpus_and_Retrieval_Control.md
-        SOP-04_Human_in_the_Loop_and_Final_Approval.md
+

@@ -13,7 +13,7 @@ This was **not** a predictive “black box” failure; it was **LLM text generat
 
 ## Controls That Prevent This
 - Retrieval-Augmented Generation (**RAG**) from a verified corpus only
-- Citation binding (doc ID + page/section required)
+- Citation binding (doc ID  and page section required)
 - DOI/URL/quote-string validators in CI
 - Human-in-the-loop sign-off with ownership
 - Prompt output/provenance logging for audit

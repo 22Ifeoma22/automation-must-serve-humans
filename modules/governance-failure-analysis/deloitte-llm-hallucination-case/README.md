@@ -36,8 +36,8 @@ This failure was *structurally predictable* based on known LLM behavior. Therefo
 
 | Technology      | Nature of Risk                                      | Predictability                               | Accountability Requirement                                |
 |-----------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|
-| **LLM**         | Confident but incorrect output (hallucination)      | **Foreseeable** (built into architecture)     | **Human oversight + source verification is mandatory**    |
-| **Traditional ML** | Performance degradation due to data/environment change | **Unforeseen until monitored**                | **Drift monitoring + bias checks are mandatory**          |
+| **LLM**         | Confident but incorrect output (hallucination)      | **Foreseeable** (built into architecture)     | **Human oversight and source verification is mandatory**    |
+| **Traditional ML** | Performance degradation due to data/environment change | **Unforeseen until monitored**                | **Drift monitoring and bias checks are mandatory**          |
 
 > **LLM risk is inherent. ML risk is emergent. Governance must match the failure mode.**
 

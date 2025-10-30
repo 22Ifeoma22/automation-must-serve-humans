@@ -27,5 +27,5 @@ This was **not** a predictive “black box” failure; it was **LLM text generat
 - `one_page_responsible_ai_lead_summary.pdf`
 - `Responsible_AI_Leadership_Carousel_White.pptx`
 
-> **Key Lesson:** Responsible AI is not model accuracy — it’s **runtime governance**.  
+> **Key Lesson:** Responsible AI is not model accuracy  it’s **runtime governance**.  
 > If an output cannot be verified, it cannot be released.

@@ -9,7 +9,7 @@ This was **not** a predictive “black box” failure; it was **LLM text generat
 - No enforced source grounding (no RAG  whitelist corpus)
 - No automated citation quote validators
 - Inadequate human fact-check and sign-off
-- Missing provenance/audit trail of prompts and sources
+- Missing provenance audit trail of prompts and sources
 
 ## Controls That Prevent This
 - Retrieval-Augmented Generation (**RAG**) from a verified corpus only

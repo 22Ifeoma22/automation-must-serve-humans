@@ -32,14 +32,26 @@ This failure was *structurally predictable* based on known LLM behavior. Therefo
 > **What is foreseeable must be governed.**
 ### Put Simply
 
-### 
+### Put Simply
 
-| Technology      | Nature of Risk                                      | Predictability                               | Accountability Requirement                                |
-|-----------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|
-| **LLM**         | Confident but incorrect output (hallucination)      | **Foreseeable** (built into architecture)     | **Human oversight and source verification is mandatory**    |
-| **Traditional ML** | Performance degradation due to data/environment change | **Unforeseen until monitored**                | **Drift monitoring and bias checks are mandatory**          |
+| Technology        | Nature of Risk                                      | Predictability                               | Accountability Requirement                                   |
+|-------------------|-----------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|
+| **LLM**           | Confident but incorrect output (hallucination)      | **Foreseeable** (built into architecture)     | **Human oversight + source verification is mandatory**       |
+| **Traditional ML**| Performance degradation due to data/environment change | **Unforeseen until monitored**              | **Drift monitoring + bias checks are mandatory**             |
 
 > **LLM risk is inherent. ML risk is emergent. Governance must match the failure mode.**
+
+## AI Policy – Introduction (Public Overview)
+
+This policy defines the principles and operating standards for the responsible development, deployment, and oversight of AI systems.
+It establishes how AI must be managed to ensure:
+- Compliance with regulatory and ethical requirements
+- Traceability and accountability for system outcomes
+- Fair, transparent, and explainable decision-making
+- Safe, secure, and monitored deployment, including post-production oversight
+
+This introduction is provided to demonstrate the governance approach and structural intent.
+The full operational policy (including workflows, controls, escalation, assurance testing, and audit mechanisms) is available by request for organisations building or maturing their Responsible AI programs.
 
 ## Visuals
 - `lion_swimlane.png`  Governance failure swimlane  

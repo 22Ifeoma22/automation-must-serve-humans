@@ -49,7 +49,7 @@ It establishes how AI must be managed to ensure:
 - Safe, secure, and monitored deployment, including post-production oversight
 
 This introduction is provided to demonstrate the governance approach and structural intent.
-The full operational policy (including workflows, controls, escalation, assurance testing, and audit mechanisms) is available by request for organisations building or maturing their Responsible AI programs.
+The full operational policy (including workflows, controls, escalation procedures, evidence requirements, and assurance steps) is **not publicly provided**. It is only shared under **formal engagement** where governance accountability, ownership, and implementation responsibility are defined.
 
 ## Visuals
 - `lion_swimlane.png`  Governance failure swimlane  

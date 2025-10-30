@@ -2,7 +2,7 @@
 **Case Study: Missing Governance Controls in LLM-Assisted Content Production**
 
 ## Overview
-Deloitte delivered a long-form report containing fabricated/non-traceable citations and misattributed quotes.  
+Deloitte delivered a long-form report containing fabricated non-traceable citations and misattributed quotes.  
 This was **not** a predictive “black box” failure; it was **LLM text generation without evidence grounding** and **weak verification**.
 
 ## Root Cause

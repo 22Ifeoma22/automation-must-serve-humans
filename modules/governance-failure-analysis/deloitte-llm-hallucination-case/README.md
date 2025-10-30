@@ -16,7 +16,7 @@ This was **not** a predictive “black box” failure; it was **LLM text generat
 - Citation binding (doc ID + page/section required)
 - DOI/URL/quote-string validators in CI
 - Human-in-the-loop sign-off with ownership
-- Prompt/output/provenance logging for audit
+- Prompt output/provenance logging for audit
 
 ## Visuals
 - `lion_swimlane.png` — Governance failure swimlane  

@@ -19,8 +19,8 @@ This was **not** a predictive “black box” failure; it was **LLM text generat
 - Prompt output/provenance logging for audit
 
 ## Visuals
-- `lion_swimlane.png` — Governance failure swimlane  
-- `lion_rag_pipeline.png` — Where hallucination occurs vs RAG grounding
+- `lion_swimlane.png`  Governance failure swimlane  
+- `lion_rag_pipeline.png`  Where hallucination occurs vs RAG grounding
 
 ## Artifacts
 - `AI_Governance_Evidence_Checklist.pdf`

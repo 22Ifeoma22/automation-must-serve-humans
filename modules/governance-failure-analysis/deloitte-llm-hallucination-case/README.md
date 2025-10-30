@@ -17,6 +17,20 @@ This was **not** a predictive “black box” failure; it was **LLM text generat
 - DOI/URL/quote-string validators in CI
 - Human-in-the-loop sign-off with ownership
 - Prompt output/provenance logging for audit
+## Where the LLM Failed
+
+This failure was not due to the model being unpredictable, it was due to the absence of governance around it.
+
+- **No Source Verification** → The model generated confident statements and citations that were not grounded in traceable data.
+- **No Human-in-the-Loop Assurance** → Output was accepted without structured review or validation before use.
+- **Weak Accountability Mapping** → Ownership for checking and approving generated content was unclear.
+- **No Provenance Logging** → There was no auditable record of prompts, sources, or reasoning steps leading to the final output.
+
+This was **not** a “model hallucination” issue.  
+It was a **governance failure** arising from missing controls and oversight.
+
+> **What is foreseeable must be governed.**
+
 
 ## Visuals
 - `lion_swimlane.png`  Governance failure swimlane  

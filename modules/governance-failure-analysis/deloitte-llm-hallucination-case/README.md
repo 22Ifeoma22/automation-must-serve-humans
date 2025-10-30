@@ -1,4 +1,7 @@
-﻿# Deloitte Australia – LLM-Generated Report Failure (2024)
+This repository is part of an ongoing Responsible AI governance and audit architecture program and will continue to evolve as regulatory, organisational, and risk maturity contexts develop.
+The governance methods represented here are provided for awareness and capability assessment; full operational frameworks are only deployed under formal organisational engagement.
+
+ # Deloitte Australia – LLM-Generated Report Failure (2024)
 **Case Study: Missing Governance Controls in LLM-Assisted Content Production**
 
 ## Overview
@@ -38,6 +41,7 @@ This failure was *structurally predictable* based on known LLM behavior. Therefo
 | **Traditional ML**| Performance degradation due to data environment change | **Unforeseen until monitored**              | **Drift monitoring and bias checks are mandatory**             |
 
 > **LLM risk is inherent. ML risk is emergent. Governance must match the failure mode.**
+> Token constraints may cause errors, but they do not mitigate them. Governance mitigates risk; tokens only shape model behaviour. These must never be conflated.
 
 ## AI Policy – Introduction (Public Overview)
 

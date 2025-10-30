@@ -41,7 +41,7 @@ This failure was *structurally predictable* based on known LLM behavior. Therefo
 | **Traditional ML**| Performance degradation due to data environment change | **Unforeseen until monitored**              | **Drift monitoring and bias checks are mandatory**             |
 
 > **LLM risk is inherent. ML risk is emergent. Governance must match the failure mode.**
-> Token constraints may cause errors, but they do not mitigate them. Governance mitigates risk; tokens only shape model behaviour. These must never be conflated.
+> **Token constraints may cause errors, but they do not mitigate them. Governance mitigates risk; tokens only shape model behaviour. These must never be conflated**.
 
 ## AI Policy – Introduction (Public Overview)
 

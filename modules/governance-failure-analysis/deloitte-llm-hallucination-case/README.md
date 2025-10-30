@@ -30,10 +30,8 @@ It was a **governance failure** arising from missing controls and oversight.
 
 This failure was *structurally predictable* based on known LLM behavior. Therefore, accountability rests with the governance design, not the model.
 > **What is foreseeable must be governed.**
-### Put Simply
 
 ### Put Simply
-
 | Technology        | Nature of Risk                                      | Predictability                               | Accountability Requirement                                   |
 |-------------------|-----------------------------------------------------|-----------------------------------------------|--------------------------------------------------------------|
 | **LLM**           | Confident but incorrect output (hallucination)      | **Foreseeable** (built into architecture)     | **Human oversight + source verification is mandatory**       |

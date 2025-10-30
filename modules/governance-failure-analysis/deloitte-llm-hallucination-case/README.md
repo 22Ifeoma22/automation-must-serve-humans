@@ -29,6 +29,7 @@ This failure was not due to the model being unpredictable, it was due to the abs
 This was **not** a “model hallucination” issue.  
 It was a **governance failure** arising from missing controls and oversight.
 
+This failure was *structurally predictable* based on known LLM behavior. Therefore, accountability rests with the governance design, not the model.
 > **What is foreseeable must be governed.**
 
 

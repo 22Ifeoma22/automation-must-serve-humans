@@ -30,7 +30,16 @@ It was a **governance failure** arising from missing controls and oversight.
 
 This failure was *structurally predictable* based on known LLM behavior. Therefore, accountability rests with the governance design, not the model.
 > **What is foreseeable must be governed.**
+### Put Simply
 
+### 
+
+| Technology      | Nature of Risk                                      | Predictability                               | Accountability Requirement                                |
+|-----------------|-----------------------------------------------------|-----------------------------------------------|-----------------------------------------------------------|
+| **LLM**         | Confident but incorrect output (hallucination)      | **Foreseeable** (built into architecture)     | **Human oversight + source verification is mandatory**    |
+| **Traditional ML** | Performance degradation due to data/environment change | **Unforeseen until monitored**                | **Drift monitoring + bias checks are mandatory**          |
+
+> **LLM risk is inherent. ML risk is emergent. Governance must match the failure mode.**
 
 ## Visuals
 - `lion_swimlane.png`  Governance failure swimlane  

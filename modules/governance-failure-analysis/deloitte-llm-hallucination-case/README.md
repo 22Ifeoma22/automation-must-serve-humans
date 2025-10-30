@@ -6,8 +6,8 @@ Deloitte delivered a long-form report containing fabricated non-traceable citati
 This was **not** a predictive “black box” failure; it was **LLM text generation without evidence grounding** and **weak verification**.
 
 ## Root Cause
-- No enforced source grounding (no RAG / whitelist corpus)
-- No automated citation/quote validators
+- No enforced source grounding (no RAG  whitelist corpus)
+- No automated citation quote validators
 - Inadequate human fact-check and sign-off
 - Missing provenance/audit trail of prompts and sources
 

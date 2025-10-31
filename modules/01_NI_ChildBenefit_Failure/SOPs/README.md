@@ -10,7 +10,7 @@ This was not a data science failure.
 This was a **governance and oversight failure**.
 
 ## Governance Principle
-> **Automated decisions must never be executed without human verification when the outcome can directly harm individuals or families.**
+**Automated decisions must never be executed without human verification when the outcome can directly harm individuals or families.**
 
 ## Scope
 This SOP applies to:

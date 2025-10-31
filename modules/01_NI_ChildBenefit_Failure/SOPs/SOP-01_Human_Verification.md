@@ -32,8 +32,8 @@ The Case Review Officer must have the following available:
 | Explanation trace (why the system flagged the case) | System-generated | To ensure transparency and auditability |
 | Contact history | CRM / Case notes | To determine if clarification was already requested |
 
-> **If the explanation trace is not available → the case cannot proceed.**  
-This is a governance requirement, not a suggestion.
+**If the explanation trace is not available → the case cannot proceed.**  
+**This is a governance requirement, not a suggestion**.
 
 ---
 

@@ -18,7 +18,7 @@ Select a module below to explore artifacts, SOPs, diagrams, and governance contr
 
 | Module | Focus Area | Status |
 |------|------------|--------|
-| **Fairness, Bias & Harm Exposure Testing Suite** | Aequitas, Fairlearn, disparity scorecards, harm modeling. | Draft |
+| **Fairness, Bias & Harm Exposure Testing Suite** | disparity scorecards, harm modeling. | Draft |
 | **Model Release Risk Governance Framework** | Tier classification → controls → sign-off workflow. | Design |
 | **Continuously Monitored AI Deployment Strategy** | Drift monitoring, risk score triggers, incident escalation. | Planned |
 

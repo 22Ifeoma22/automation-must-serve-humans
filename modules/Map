@@ -1,0 +1,33 @@
+           THE HOLISTIC AI HARM MAP
+───────────────────────────────────────────────────────
+ DATA  →  MODEL  →  DEPLOYMENT  →  MONITORING  →  IMPACT
+───────────────────────────────────────────────────────
+
+1) Data Governance
+   - Data representativeness checks
+   - Data sheet + lineage
+   - Proxy bias review
+   • Failure → System learns harm
+
+2) Model Governance
+   - System card + explainability evidence
+   - Fairness test plan + thresholds
+   - Versioning + changelog
+   • Failure → Decisions become opaque + unjustifiable
+
+3) Deployment Governance
+   - Human-in-the-loop for adverse cases
+   - Go/No-Go approval gates
+   - Rollback authority assigned
+   • Failure → Automation runs without brake
+
+4) Monitoring & Incident Response
+   - Drift & boundary-flip alerts
+   - Incident register + root cause reviews
+   - Weekly cross-functional review board
+   • Failure → Harm persists silently
+
+5) Accountability & Redress (RACI)
+   - Named Owner (A) + Escalation path
+   - Visible appeal channel for individuals affected
+   • Failure → People suffer with **no route to correction**

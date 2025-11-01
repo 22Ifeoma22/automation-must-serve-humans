@@ -1,6 +1,8 @@
 # **Automation Must Serve Humans  Not Harm Them**
 ### Responsible AI Incident Response & Governance Portfolio  
-**By Sue Eze  Responsible AI Risk & Compliance Consultant**  
+**By Sue Eze  Responsible AI Risk & Compliance Consultant** 
+I specialise in assessing, governing and mitigating risks in AI-enabled decision systems — ensuring transparency, accountability, and human oversight are present where automated decisions impact people, rights, access to services, and life outcomes. My work focuses on preventing harm, supporting compliance with the EU AI Act and GDPR Article 22, and ensuring that automation always serves and protects the public.
+
 I protect people and public trust by ensuring AI systems are safe before deployment.
 
 ---

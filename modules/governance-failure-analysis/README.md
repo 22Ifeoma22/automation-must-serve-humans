@@ -4,12 +4,9 @@ This module provides real-world case studies where AI systems caused harm due to
 Each case study is analysed using the **Big Map Roar Framework**, which traces how harm emerges across the AI lifecycle.
 
 ---
-
 ## The Big Map Roar Framework (Governance Lens)
 
 ** Most AI failures are not model failures — they are governance failures that allowed the system to operate without accountability**.
-
-![Holistic AI Harm Map](../Map/big_map_roar_boardroom.png)
 
 This framework highlights where systemic harm originates across 5 layers:
 
@@ -34,7 +31,6 @@ This framework is used across all case studies to explain:
 - How the harm could have been prevented
 
 ---
-
 ## Case Studies in This Module
 
 | Case | Description | Link |

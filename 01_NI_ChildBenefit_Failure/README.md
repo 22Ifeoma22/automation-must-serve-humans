@@ -27,6 +27,10 @@ Article 5 ensures data is collected and processed responsibly; Article 22 ensure
 
 Once transparency and human-in-the-loop pathways failed, protection shifted from the individual to the regulator, making the automation unlawful by default under **GDPR Article 22**.
 
+Article	What it Covers	Meaning in AI Governance
+GDPR Article 5	The Principles of Data Processing	This is the foundation. It defines how all personal data must be handled. It includes: Lawfulness, Fairness, Transparency, Purpose Limitation, Data Minimisation, Accuracy, Storage Limitation, Integrity & Confidentiality, Accountability.
+GDPR Article 22	Automated Decision-Making and Profiling	This is specific to AI and automated decisions that affect people. It gives people the right to human review, the right to explainability, and the right to contest decisions made solely by algorithms.
+
 ##  Impact on Human Rights
 - Financial hardship for vulnerable families  
 - Risk of hunger and housing instability  

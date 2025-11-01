@@ -18,8 +18,12 @@ This resulted in sudden withdrawal of essential income for families with childre
 
  **Key Governance Insight:**  
  In the NI case, individuals did not lose their rights, the system was designed so those rights could not be exercised.  
- Once transparency and human-in-the-loop pathways failed, protection shifted from the individual to the regulator, making the automation unlawful by default under **GDPR Article 22**.
 
+**Human Contestability Breakdown:**  
+Although rights under GDPR Article 22 technically existed, individuals had **no practical way** to challenge the automated decision.  
+Because the system did not provide transparency, notification, or a human review path, the right to contest became **unenforceable in practice** — making the automation **unlawful by default** under GDPR Article 22.
+
+Once transparency and human-in-the-loop pathways failed, protection shifted from the individual to the regulator, making the automation unlawful by default under **GDPR Article 22**.
 
 ##  Impact on Human Rights
 - Financial hardship for vulnerable families  

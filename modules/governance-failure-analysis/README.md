@@ -6,7 +6,7 @@ Each case study is analysed using the **Big Map Roar Framework**, which traces h
 ---
 ## The Big Map Roar Framework (Governance Lens)
 
-** Most AI failures are not model failures — they are governance failures that allowed the system to operate without accountability**.
+** Most AI failures are not model failures, they are governance failures that allowed the system to operate without accountability**.
 
 This framework highlights where systemic harm originates across 5 layers:
 

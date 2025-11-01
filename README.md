@@ -11,7 +11,7 @@ Mission
 Automated decisions must never violate human rights...
 ---
 
-## 🧭 AI Governance Maturity Model
+##  AI Governance Maturity Model
 
 AI Governance matures as oversight, capability, and accountability strengthen.  
 This model illustrates how organisations progress from **uncontrolled automation** to **auditable, transparent and human-centred AI decision-making.**

@@ -24,7 +24,10 @@ This framework highlights where systemic harm originates across 5 layers:
 
 5. **Accountability & Redress (RACI)**  
    If no one owns the outcome → people have **no route to correction**
-
+   
+ **Legal Anchor:** Under **GDPR Article 22**, individuals cannot be subjected to automated decisions with legal or significant effects **without meaningful human oversight and a clear route to contest the decision**.
+  
+   When these safeguards are missing, automation is operating outside lawful governance boundaries.
 This framework is used across all case studies to explain:
 - What control failed
 - How the failure created harm

@@ -16,6 +16,11 @@ This resulted in sudden withdrawal of essential income for families with childre
 | Absence of human oversight | Full automation deployed on high-risk decisions | Human-in-the-loop escalation |
 | Late incident response | Harm detected only after public complaints | Continuous monitoring + KPIs |
 
+ **Key Governance Insight:**  
+ In the NI case, individuals did not lose their rights, the system was designed so those rights could not be exercised.  
+ Once transparency and human-in-the-loop pathways failed, protection shifted from the individual to the regulator, making the automation unlawful by default under **GDPR Article 22**.
+
+
 ##  Impact on Human Rights
 - Financial hardship for vulnerable families  
 - Risk of hunger and housing instability  

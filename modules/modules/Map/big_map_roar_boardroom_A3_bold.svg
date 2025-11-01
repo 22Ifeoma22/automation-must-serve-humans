@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="4961" height="3508" viewBox="0 0 4961 3508" style="background:#fff">
+  <style>
+    .t { font: 190px sans-serif; font-weight:700; }
+    .s { font: 120px sans-serif; }
+    .l { font: 150px sans-serif; font-weight:700; }
+  </style>
+  <text x="2480.5" y="280" text-anchor="middle" class="t">THE HOLISTIC AI HARM MAP</text>
+  <text x="2480.5" y="470" text-anchor="middle" class="s">DATA  &gt;  MODEL  &gt;  DEPLOYMENT  &gt;  MONITORING  &gt;  IMPACT</text>
+<rect x="270" y="1400" width="820" height="480" fill="none" stroke="#000" stroke-width="18"/>
+<text x="680.0" y="1690.0" text-anchor="middle" class="l">DATA</text>
+<line x1="1100" y1="1640.0" x2="1160" y2="1640.0" stroke="#000" stroke-width="24" />
+<polygon points="1160,1640.0 1100,1604.0 1100,1676.0" fill="#000"/>
+<rect x="1170" y="1400" width="820" height="480" fill="none" stroke="#000" stroke-width="18"/>
+<text x="1580.0" y="1690.0" text-anchor="middle" class="l">MODEL</text>
+<line x1="2000" y1="1640.0" x2="2060" y2="1640.0" stroke="#000" stroke-width="24" />
+<polygon points="2060,1640.0 2000,1604.0 2000,1676.0" fill="#000"/>
+<rect x="2070" y="1400" width="820" height="480" fill="none" stroke="#000" stroke-width="18"/>
+<text x="2480.0" y="1690.0" text-anchor="middle" class="l">DEPLOYMENT</text>
+<line x1="2900" y1="1640.0" x2="2960" y2="1640.0" stroke="#000" stroke-width="24" />
+<polygon points="2960,1640.0 2900,1604.0 2900,1676.0" fill="#000"/>
+<rect x="2970" y="1400" width="820" height="480" fill="none" stroke="#000" stroke-width="18"/>
+<text x="3380.0" y="1690.0" text-anchor="middle" class="l">MONITORING</text>
+<line x1="3800" y1="1640.0" x2="3860" y2="1640.0" stroke="#000" stroke-width="24" />
+<polygon points="3860,1640.0 3800,1604.0 3800,1676.0" fill="#000"/>
+<rect x="3870" y="1400" width="820" height="480" fill="none" stroke="#000" stroke-width="18"/>
+<text x="4280.0" y="1690.0" text-anchor="middle" class="l">IMPACT</text>
+</svg>

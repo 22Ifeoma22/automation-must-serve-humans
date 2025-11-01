@@ -22,6 +22,7 @@ This resulted in sudden withdrawal of essential income for families with childre
 **Human Contestability Breakdown:**  
 Although rights under GDPR Article 22 technically existed, individuals had **no practical way** to challenge the automated decision.  
 Because the system did not provide transparency, notification, or a human review path, the right to contest became **unenforceable in practice** making the automation **unlawful by default** under GDPR Article 22.
+→ This demonstrates that **having a right on paper is meaningless if system design prevents that right from being exercised.**
 
 Once transparency and human-in-the-loop pathways failed, protection shifted from the individual to the regulator, making the automation unlawful by default under **GDPR Article 22**.
 

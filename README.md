@@ -9,6 +9,26 @@ I protect people and public trust by ensuring AI systems are safe before deploym
 
 Mission
 Automated decisions must never violate human rights...
+---
+
+## 🧭 AI Governance Maturity Model
+
+AI Governance matures as oversight, capability, and accountability strengthen.  
+This model illustrates how organisations progress from **uncontrolled automation** to **auditable, transparent and human-centred AI decision-making.**
+
+![AI Governance Maturity](assets/visuals/ai_governance_maturity_corporate_branded.png)
+
+### Maturity Levels
+
+| Stage | Description |
+|------|-------------|
+| **Ad-Hoc AI Governance** | Models deployed without structured oversight, documentation, or risk assessment. |
+| **Defined AI Governance** | Governance principles exist, but adoption varies across teams and projects. |
+| **Managed AI Governance** | Risk assessment, approval, documentation, and human oversight are operationalised. |
+| **Measured AI Governance** | Bias, drift, robustness, privacy and explainability metrics are continuously monitored. |
+| **Optimized AI Governance** | Governance is proactive, culture-aligned, regulation-ready, and continuously improved. |
+
+---
 
 Policy Summary (Table of Contents)
 --------------------------------
